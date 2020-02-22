@@ -1,5 +1,0 @@
-HelloGit!11
-
-amendment via web interface
-
-last amendment via sublime
