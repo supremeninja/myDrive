@@ -1,3 +1,7 @@
-const digits = [1,5,10,20,30,40];
-const doubleDigits = digits.map( x => x*2);
-console.log(doubleDigits)
+function FullName(first, last, ...least) {
+  console.log(first);
+  console.log(last);
+  console.log(least);
+}
+
+FullName('Bohdan', 'Harkavyi', 'other stuff', 'is', 'going', 'to', 'some', 'leastArray');
