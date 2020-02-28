@@ -1,0 +1,29 @@
+.tabs {
+    border: 1px solid #666;
+    padding: 10px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.active {
+    font-weight: bold;
+}
+
+ul li {
+		 text-align: center;
+		 width: 100px;
+		 margin: 0 50px;
+
+}
+
+.tab {
+    cursor: pointer;
+    display: block;
+    border: 1px solid #666;
+    padding: 5px 5px;
+    text-align: center;
+    
+    
+}
+
