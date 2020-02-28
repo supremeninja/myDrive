@@ -6,6 +6,7 @@ tab.forEach(function (element) {
 //обработка клика
 function showTabs() {
     //получение даты,активность кнопки
+    
     let data = this.getAttribute('data');
     if (data === '1') {
         tab[0].style.fontWeight = 'bold';
