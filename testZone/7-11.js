@@ -552,3 +552,10 @@ function parseResponse([protocol, statusCode, contentType]) {
   console.log(`Status: ${statusCode}`)
 }
 parseResponse(response); <-----
+
+for (let of nums) => return 'kek';
+
+for (let i=0; i< nums.length; i++)
+let arr = (mass, kvass) {
+  total += 2;
+}
